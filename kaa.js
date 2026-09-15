@@ -1,2 +1,2 @@
-lat name="saniya";
+let name="saniya";
 console.log(name);
